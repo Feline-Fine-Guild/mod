@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "felinefine",
 	"version": "${version}",
-	"name": "Tutorial Mod",
-	"description": "Tutorial Mod by Kaupenjoe for YouTube",
+	"name": "Feline Fine",
+	"description": "Feline Finecraft mod",
 	"authors": [
-		"Kaupenjoe!"
+		"Midnight Doggo"
 	],
 	"contact": {
 		"homepage": "https://github.com/Feline-Fine-Guild/mod",
