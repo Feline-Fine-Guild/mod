@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "Tutorial Mod",
+	"description": "Tutorial Mod by Kaupenjoe for YouTube",
+	"authors": [
+		"Kaupenjoe!"
+	],
+	"contact": {
+		"homepage": "https://github.com/Feline-Fine-Guild/mod",
+		"sources": "https://github.com/Feline-Fine-Guild/mod",
+		"issues": "https://github.com/Feline-Fine-Guild/mod/issues"
+	},
+	"license": "GPL-3.0-only",
+	"icon": "assets/felinefine/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.midnightdoggo19.felinefine.FelineFine"
+		],
+		"fabric-datagen": [
+			"com.midnightdoggo19.felinefine.FelineFineDataGenerator"
+		],
+		"client": [
+			"com.midnightdoggo19.felinefine.FelineFineClient"
+		]
+	},
+	"mixins": [
+		"felinefine.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
