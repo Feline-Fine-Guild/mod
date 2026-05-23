@@ -5,3 +5,5 @@ In the project root, run:
 ./gradlew assemble
 
 Copy build/libs/felinefine-<VERSION>.jar into ~/.minecraft/mods/
+
+https://modrinth.com/mod/felinefine
