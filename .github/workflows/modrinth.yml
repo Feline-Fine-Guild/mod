@@ -14,4 +14,4 @@ jobs:
         with:
           auth-token: ${{ secrets.MODRINTH_README_TOKEN }}
           slug: "XtxJn1t2"
-          readme: "README.txt"
+          readme: "README.md"
