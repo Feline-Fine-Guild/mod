@@ -7,3 +7,5 @@ In the project root, run:
 Copy build/libs/felinefine-<VERSION>.jar into ~/.minecraft/mods/
 
 https://modrinth.com/mod/felinefine
+
+Changes that may destabilise the mod must flow through the dev tree before being accepted to master.
