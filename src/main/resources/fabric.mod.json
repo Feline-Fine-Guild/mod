@@ -14,7 +14,7 @@
 	},
 	"license": "GPL-3.0-only",
 	"icon": "assets/felinefine/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"com.midnightdoggo19.felinefine.FelineFine"
@@ -45,7 +45,6 @@
 			},
 			"description": "Feline Finecraft mod",
 			"icon": "assets/felinefine/icon.png",
-			"badges": [ "client" ],
 			"update_checker": true
 		}
 	}
