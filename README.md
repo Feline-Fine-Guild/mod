@@ -1,5 +1,7 @@
 # Feline Finecraft
 
+For version 1.21.1.
+
 A custom mod for Feline Finecraft to add custom items and blocks 
 to the Minecraft server.<br>
 * See [CONTRIBUTING.txt](https://github.com/Feline-Fine-Guild/mod/blob/master/README.txt)
